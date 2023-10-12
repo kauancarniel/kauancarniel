@@ -1,4 +1,4 @@
-## Olá! Eu sou o Kauan Carniel Peres.
+## Olá! Eu sou o Kauan.
 ---
 <div style="display: inline_block"><br>
   <img align="center" atl="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
