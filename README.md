@@ -15,6 +15,8 @@
 💼 [LinkedIn](https://www.linkedin.com/in/kauancarniel/)
 <!--📂 [Meu Portfólio](https://seu-portfolio.com)-->
 
+---
+ 
 Se quiser bater um papo sobre tecnologia, jogos ou desenvolvimento, estou sempre aberto para trocar ideias! 🚀
 <!--
 <div style="display: inline_block"><br>
