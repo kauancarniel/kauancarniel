@@ -1,5 +1,7 @@
-## Olá! Eu sou o Kauan!
+## Olá! Eu sou o Kauan! :wave:
 ---
+
+Minhas Stacks
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
 <!--
 <div style="display: inline_block"><br>
