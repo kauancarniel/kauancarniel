@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Kauan!
 ---
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 <div style="display: inline_block"><br>
   <img align="center" atl="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
