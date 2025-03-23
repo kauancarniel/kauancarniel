@@ -8,13 +8,11 @@
 ### Gosto de aprender novas stacks, resolver problemas e criar soluções criativas! 🚀
 
 ## Minhas Stacks  
-<div></div>
-
+&nbsp;  
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
 
 ## **Onde me encontrar?**  
-<div></div>
-
+&nbsp;  
 📩 Email: *kauan-carniel@hotmail.com*  
 💼 [LinkedIn](https://www.linkedin.com/in/kauancarniel/)
 <!--📂 [Meu Portfólio](https://seu-portfolio.com)-->
