@@ -1,7 +1,7 @@
 # Olá! Eu sou o Kauan! :wave:
 ---
 Sou um desenvolvedor fullstack, formado em desenvolvimento web pela Trybe. <br>
-Passar minha infância em frente ao computador e ao video game trouxe como consequência a paixão por tecnologia.
+Passar minha infância em frente ao computador e ao video game trouxe como consequência a paixão por tecnologia. <br>
 Minhas Stacks
 <br>
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
