@@ -4,7 +4,7 @@ Sou um desenvolvedor fullstack, formado em desenvolvimento web pela Trybe. <br/>
 Passar minha infância em frente ao computador e ao video game trouxe como consequência a paixão por tecnologia.
 ## Minhas Stacks
 <br/>
-![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
 <!--
 <div style="display: inline_block"><br>
   <img align="center" atl="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
