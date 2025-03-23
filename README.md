@@ -7,7 +7,7 @@ Estou sempre em busca de oportunidades de me desafiar, aprender e colocar meus c
 
 ## 📫 **Onde me encontrar?**  
 📩 Email: *kauan-carniel@hotmail.com*  
-💼 [[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)](https://www.linkedin.com/in/kauancarniel/)
+💼 [LinkedIn](https://www.linkedin.com/in/kauancarniel/)
 <!--📂 [Meu Portfólio](https://seu-portfolio.com)-->
 
 ---
