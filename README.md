@@ -1,8 +1,18 @@
 # Olá! Eu sou o Kauan! :wave:
+Passar minha infância em frente ao computador e ao video game trouxe como consequência a paixão por tecnologia. <br>
 Sou um desenvolvedor fullstack, formado em desenvolvimento web pela Trybe. <br>
-Passar minha infância em frente ao computador e ao video game trouxe como consequência a paixão por tecnologia. <br><br><br>
+Estou sempre em busca de oportunidades de me desafiar, aprender e colocar meus conhecimentos em prática <br><br>
 ## Minhas Stacks <br>
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
+
+## 📫 **Onde me encontrar?**  
+📩 Email: *kauan-carniel@hotmail.com*  
+💼 [LinkedIn](https://www.linkedin.com/in/kauancarniel/)  
+<!--📂 [Meu Portfólio](https://seu-portfolio.com)-->
+
+---
+
+Se quiser bater um papo sobre tecnologia, jogos ou desenvolvimento, estou sempre aberto para trocar ideias! 🚀
 <!--
 <div style="display: inline_block"><br>
   <img align="center" atl="React Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
