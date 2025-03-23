@@ -4,12 +4,12 @@ Sou paixonado por tecnologia desde a infância, sempre fui fascinado por computa
 Hoje, sou um desenvolvedor fullstack formado pela Trybe, sempre buscando novos desafios, aprendizados e oportunidades para evoluir. <br>
 
 Atualmente, atuo como desenvolvimento web freelancer e tenho experiência em diversas tecnologias. Também tenho interesse por desenvolvimento de jogos e estou explorando a Unity. <br>
-Gosto de aprender novas stacks, resolver problemas e criar soluções eficientes! <br><br>
+Gosto de aprender novas stacks, resolver problemas e criar soluções criativas! <br><br>
 ---
 ## Minhas Stacks <br>
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,docker,mysql,express,cs,dotnet,vite,linux,redux)](https://skillicons.dev)
 
-## 📫 **Onde me encontrar?**  
+## **Onde me encontrar?**  
 📩 Email: *kauan-carniel@hotmail.com*  
 💼 [LinkedIn](https://www.linkedin.com/in/kauancarniel/)
 <!--📂 [Meu Portfólio](https://seu-portfolio.com)-->
